@@ -5,4 +5,4 @@ This is a repository I use for code from [Udemy's 100 days Python - Day 17](http
 - Creating Classes
 
 ## Project
-"Run for that Bus!"
+"Quiz"
